@@ -7,8 +7,8 @@ A terminal-based Movie Collection Manager built in Python as part of my Python l
 
 - Add movies
 - View all movies
-- Count total movies
-- Find the highest-rated movie
+- Count total movies(soon)
+- Find the highest-rated movie(soon)
 
 ## Concepts Used
 
